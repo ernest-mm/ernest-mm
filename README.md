@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ernest!</h1># 
+<h1 align="center">Hi, I'm Ernest!</h1>
 
 A Computer Science student passionate about self-education and critical thinking. 
 
