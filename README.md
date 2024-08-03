@@ -1,7 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ernest!</h1># 
+
+A Computer Science student passionate about self-education and critical thinking. 
 
 <!--
-**ernest-mm/ernest-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,8 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🏄‍♂️ Forrest Knight
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-I'm an indie full-stack
